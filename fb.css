@@ -1,0 +1,124 @@
+.header{
+    background:rgba(5, 62, 252, 0.945);
+    width:100%;
+    height:103px;
+}
+body{
+    margin:0;
+}
+.logo{
+    width:50%;
+    padding-top:23px;
+    padding-left:100px ;
+    float:left 
+ 
+}
+.login{
+    width:320px;
+    float:left;
+    padding-top:10px;
+}
+.text{
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none
+}
+.hello{
+    color:white
+}
+.forgot{
+    color:white;
+    font-size:16px;
+    text-decoration:none;
+}
+.button{
+    background-color: rgb(10, 86, 228);
+    color:white;
+    border-color:rgb(150, 7, 245);
+    height:25px;
+    cursor:pointer;
+}
+.button:hover{
+    background-color: red;
+}
+.header2{
+    background:rgba(127, 151, 187, 0.644);
+    height:498px;
+    
+    margin-top: 0px;
+    
+}
+.leftsection{
+    width: 50%;
+    float:left;
+    
+}
+
+.rightsection{
+    width:50%;
+    color:black;
+    float:left;
+}
+.image{
+    width: 526px;
+    margin-left: 100px;
+    margin-top: 7px;
+}
+
+.fbtext{
+    color: black;
+    font-size: 23px;
+    margin-left: 112px;
+    margin-top: 16px;
+    padding-top: 68px;
+    font-weight: bolder 
+}
+.border{
+    height: 29px;
+    width: 199px;
+    border-radius: 12px;
+    border-color: grey;
+    float:left;
+    
+}
+.header3{
+    font-size: 52px;
+    font-weight: bold;
+}
+.secondheading{
+    font-weight: bold;
+    font-size: 21px;
+}
+.two{
+    padding-left: 68px;
+    padding-top: -3px;
+    margin-left: 181px;
+}
+.three{
+    margin-top: 14px;
+}
+.four{
+    margin-top: 150px;
+    font-size: 21px;
+    color: grey;
+}
+#five{
+    margin-top:0px;
+}
+.six{
+    color: grey;
+    font-size: 22px;
+    margin-top: 10px;
+}
+#seven{
+    width:102px;
+}
+.nine{
+    font-size: 17px;
+    margin-top: 13px;
+    margin-left: 21px;
+    background: blue;
+    color: white;
+}
+
